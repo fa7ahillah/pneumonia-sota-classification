@@ -1,0 +1,5 @@
+,Trainable_Params_Phase2,Trainable_Params_Phase2,Training_Time_Sec,Training_Time_Sec,Accuracy,Accuracy,Precision,Precision,Recall,Recall,F1_Score,F1_Score,FP,FP,FN,FN
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+Model,,,,,,,,,,,,,,,,
+MobileNetV2,1527681.0,,2781.75,,0.93,,0.9777777777777777,,0.88,,0.9263157894736842,,3.0,,18.0,
+ResNet50,14452225.0,,2712.58,,0.93,,1.0,,0.86,,0.9247311827956989,,0.0,,21.0,

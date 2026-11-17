@@ -1,0 +1,26 @@
+# Kredensial & environment variables (JANGAN DIUNGGAH)
+kaggle.json
+.kaggle/
+.env
+
+# Arsip dataset & citra mentah
+*.zip
+data/raw/
+*.png
+*.jpg
+*.jpeg
+
+# Tetap izinkan grafik hasil evaluasi di folder plots
+!results/plots/*.png
+
+# Bobot model terlatih berukuran besar
+*.h5
+*.keras
+*.weights.h5
+
+# Cache Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
