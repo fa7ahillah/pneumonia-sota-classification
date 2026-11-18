@@ -25,3 +25,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+kaggle.json
+.kaggle/
+data/raw/
+desktop.ini
